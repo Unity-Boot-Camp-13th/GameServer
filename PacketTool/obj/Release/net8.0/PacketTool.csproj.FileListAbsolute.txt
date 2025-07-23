@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\bin\Release\net8.0\PacketTool.exe
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\bin\Release\net8.0\PacketTool.deps.json
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\bin\Release\net8.0\PacketTool.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\bin\Release\net8.0\PacketTool.dll
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\bin\Release\net8.0\PacketTool.pdb
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.sourcelink.json
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.dll
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\refint\PacketTool.dll
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.pdb
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\PacketTool.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Unity-BootCamp-13th\C#\Game\PacketTool\obj\Release\net8.0\ref\PacketTool.dll

@@ -1,9 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<Target Name="PacketTool" BeforeTargets="BeforeCompile">
+		<Exec Command="dotnet run --project ../PacketTool/PacketTool.csproj $(ProjectDir)packets.def $(ProjectDir)\Network\Generated"></Exec>
+	</Target>
+
+	<ItemGroup>
+		<Compile Include="$(ProjectDir)Network\Generated\**\*.cs"></Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Network\Generated\" />
+	</ItemGroup>
 
 </Project>

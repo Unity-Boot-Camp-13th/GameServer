@@ -1,0 +1,282 @@
+# C# 명명 규칙 및 관례 (.editorconfig)
+# 기반: C# 공식문서의 식별자 명명 규칙 및 관례
+
+[*.{cs,vb}]
+
+###############################
+# 기호 그룹 정의
+###############################
+
+# 인터페이스
+dotnet_naming_symbols.interface.applicable_kinds = interface
+dotnet_naming_symbols.interface.applicable_accessibilities = *
+
+# 클래스
+dotnet_naming_symbols.class.applicable_kinds = class
+dotnet_naming_symbols.class.applicable_accessibilities = *
+
+# 구조체
+dotnet_naming_symbols.struct.applicable_kinds = struct
+dotnet_naming_symbols.struct.applicable_accessibilities = *
+
+# 대리자
+dotnet_naming_symbols.delegate.applicable_kinds = delegate
+dotnet_naming_symbols.delegate.applicable_accessibilities = *
+
+# 열거형
+dotnet_naming_symbols.enum.applicable_kinds = enum
+dotnet_naming_symbols.enum.applicable_accessibilities = *
+
+# 형식 (클래스, 구조체, 인터페이스, 대리자, 열거형)
+dotnet_naming_symbols.types.applicable_kinds = class, struct, interface, enum, delegate
+dotnet_naming_symbols.types.applicable_accessibilities = *
+
+# 공용 멤버 (필드, 속성, 이벤트, 메서드)
+dotnet_naming_symbols.public_members.applicable_kinds = property, method, field, event
+dotnet_naming_symbols.public_members.applicable_accessibilities = public
+
+# 모든 메서드 (로컬 함수 포함)
+dotnet_naming_symbols.methods.applicable_kinds = method, local_function
+dotnet_naming_symbols.methods.applicable_accessibilities = *
+
+# 프라이빗 인스턴스 필드
+dotnet_naming_symbols.private_instance_fields.applicable_kinds = field
+dotnet_naming_symbols.private_instance_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_instance_fields.required_modifiers = !static
+
+# 프라이빗 정적 필드
+dotnet_naming_symbols.private_static_fields.applicable_kinds = field
+dotnet_naming_symbols.private_static_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_static_fields.required_modifiers = static
+
+# 스레드 정적 필드
+dotnet_naming_symbols.thread_static_fields.applicable_kinds = field
+dotnet_naming_symbols.thread_static_fields.applicable_accessibilities = private
+dotnet_naming_symbols.thread_static_fields.required_modifiers = static
+
+# 메서드 매개변수
+dotnet_naming_symbols.parameters.applicable_kinds = parameter
+dotnet_naming_symbols.parameters.applicable_accessibilities = *
+
+# 지역 변수
+dotnet_naming_symbols.local_variables.applicable_kinds = local
+dotnet_naming_symbols.local_variables.applicable_accessibilities = *
+
+# 상수 (필드 및 로컬)
+dotnet_naming_symbols.constants.applicable_kinds = field, local
+dotnet_naming_symbols.constants.applicable_accessibilities = *
+dotnet_naming_symbols.constants.required_modifiers = const
+
+# 네임스페이스
+dotnet_naming_symbols.namespaces.applicable_kinds = namespace
+dotnet_naming_symbols.namespaces.applicable_accessibilities = *
+
+# 형식 매개변수
+dotnet_naming_symbols.type_parameters.applicable_kinds = type_parameter
+dotnet_naming_symbols.type_parameters.applicable_accessibilities = *
+
+# 단일 문자 형식 매개변수
+dotnet_naming_symbols.single_type_parameter.applicable_kinds = type_parameter
+dotnet_naming_symbols.single_type_parameter.applicable_accessibilities = *
+
+###############################
+# 명명 스타일 정의
+###############################
+
+# 파스칼 케이스
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+
+# 카멜 케이스
+dotnet_naming_style.camel_case.capitalization = camel_case
+
+# 인터페이스 스타일 (I 접두사 + 파스칼 케이스)
+dotnet_naming_style.interface_style.capitalization = pascal_case
+dotnet_naming_style.interface_style.required_prefix = I
+
+# 프라이빗 인스턴스 필드 스타일 (_ 접두사 + 카멜 케이스)
+dotnet_naming_style.private_field_style.capitalization = camel_case
+dotnet_naming_style.private_field_style.required_prefix = _
+
+# 정적 필드 스타일 (s_ 접두사 + 카멜 케이스)
+dotnet_naming_style.static_field_style.capitalization = camel_case
+dotnet_naming_style.static_field_style.required_prefix = s_
+
+# 스레드 정적 필드 스타일 (t_ 접두사 + 카멜 케이스)
+dotnet_naming_style.thread_static_field_style.capitalization = camel_case
+dotnet_naming_style.thread_static_field_style.required_prefix = t_
+
+# 형식 매개변수 스타일 (T 접두사 + 파스칼 케이스)
+dotnet_naming_style.type_parameter_style.capitalization = pascal_case
+dotnet_naming_style.type_parameter_style.required_prefix = T
+
+# 단일 문자 형식 매개변수 스타일
+dotnet_naming_style.single_type_parameter_style.capitalization = pascal_case
+
+###############################
+# 명명 규칙 정의
+###############################
+
+# 인터페이스는 I로 시작하고 파스칼 케이스 사용
+dotnet_naming_rule.interface_should_begin_with_i.symbols = interface
+dotnet_naming_rule.interface_should_begin_with_i.style = interface_style
+dotnet_naming_rule.interface_should_begin_with_i.severity = error
+
+# 클래스는 파스칼 케이스 사용
+dotnet_naming_rule.class_should_be_pascal_case.symbols = class
+dotnet_naming_rule.class_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.class_should_be_pascal_case.severity = error
+
+# 구조체는 파스칼 케이스 사용
+dotnet_naming_rule.struct_should_be_pascal_case.symbols = struct
+dotnet_naming_rule.struct_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.struct_should_be_pascal_case.severity = error
+
+# 대리자는 파스칼 케이스 사용
+dotnet_naming_rule.delegate_should_be_pascal_case.symbols = delegate
+dotnet_naming_rule.delegate_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.delegate_should_be_pascal_case.severity = error
+
+# 열거형은 파스칼 케이스 사용
+dotnet_naming_rule.enum_should_be_pascal_case.symbols = enum
+dotnet_naming_rule.enum_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.enum_should_be_pascal_case.severity = error
+
+# 공용 멤버는 파스칼 케이스 사용
+dotnet_naming_rule.public_members_should_be_pascal_case.symbols = public_members
+dotnet_naming_rule.public_members_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.public_members_should_be_pascal_case.severity = error
+
+# 모든 메서드와 로컬 함수는 파스칼 케이스 사용
+dotnet_naming_rule.methods_should_be_pascal_case.symbols = methods
+dotnet_naming_rule.methods_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.methods_should_be_pascal_case.severity = error
+
+# 프라이빗 인스턴스 필드는 _로 시작하고 카멜 케이스 사용
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.symbols = private_instance_fields
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.style = private_field_style
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.severity = error
+
+# 프라이빗 정적 필드는 s_로 시작
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.symbols = private_static_fields
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.style = static_field_style
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.severity = error
+
+# 메서드 매개변수는 카멜 케이스 사용
+dotnet_naming_rule.parameters_should_be_camel_case.symbols = parameters
+dotnet_naming_rule.parameters_should_be_camel_case.style = camel_case
+dotnet_naming_rule.parameters_should_be_camel_case.severity = error
+
+# 지역 변수는 카멜 케이스 사용
+dotnet_naming_rule.local_variables_should_be_camel_case.symbols = local_variables
+dotnet_naming_rule.local_variables_should_be_camel_case.style = camel_case
+dotnet_naming_rule.local_variables_should_be_camel_case.severity = error
+
+# 상수는 파스칼 케이스 사용
+dotnet_naming_rule.constants_should_be_pascal_case.symbols = constants
+dotnet_naming_rule.constants_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.constants_should_be_pascal_case.severity = error
+
+# 속성 형식은 Attribute로 끝남
+dotnet_naming_rule.attribute_types_should_end_with_attribute.symbols = attribute_types
+dotnet_naming_rule.attribute_types_should_end_with_attribute.style = attribute_style
+dotnet_naming_rule.attribute_types_should_end_with_attribute.severity = suggestion
+
+# 네임스페이스는 파스칼 케이스 사용
+dotnet_naming_rule.namespaces_should_be_pascal_case.symbols = namespaces
+dotnet_naming_rule.namespaces_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.namespaces_should_be_pascal_case.severity = error
+
+# 형식 매개변수는 T로 시작하고 파스칼 케이스 사용
+dotnet_naming_rule.type_parameters_should_start_with_t.symbols = type_parameters
+dotnet_naming_rule.type_parameters_should_start_with_t.style = type_parameter_style
+dotnet_naming_rule.type_parameters_should_start_with_t.severity = suggestion
+
+# 모든 명명 규칙 위반에 대한 전역 심각도 설정
+dotnet_diagnostic.IDE1006.severity = warning
+tab_width = 4
+indent_size = 4
+end_of_line = crlf
+dotnet_style_qualification_for_field = false:silent
+dotnet_style_qualification_for_property = false:silent
+dotnet_style_qualification_for_method = false:silent
+dotnet_style_qualification_for_event = false:silent
+dotnet_style_parentheses_in_arithmetic_binary_operators = always_for_clarity:silent
+dotnet_style_parentheses_in_other_binary_operators = always_for_clarity:silent
+dotnet_style_parentheses_in_relational_binary_operators = always_for_clarity:silent
+dotnet_style_parentheses_in_other_operators = never_if_unnecessary:silent
+dotnet_code_quality_unused_parameters = all:suggestion
+dotnet_style_allow_multiple_blank_lines_experimental = true:silent
+dotnet_style_allow_statement_immediately_after_block_experimental = true:silent
+dotnet_style_operator_placement_when_wrapping = beginning_of_line
+dotnet_style_coalesce_expression = true:suggestion
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:suggestion
+dotnet_style_null_propagation = true:suggestion
+dotnet_style_object_initializer = true:suggestion
+dotnet_style_prefer_auto_properties = true:silent
+dotnet_style_collection_initializer = true:suggestion
+dotnet_style_prefer_simplified_boolean_expressions = true:suggestion
+dotnet_style_prefer_conditional_expression_over_return = true:silent
+dotnet_style_prefer_conditional_expression_over_assignment = true:silent
+dotnet_style_prefer_inferred_tuple_names = true:suggestion
+dotnet_style_explicit_tuple_names = true:suggestion
+dotnet_style_prefer_inferred_anonymous_type_member_names = true:suggestion
+dotnet_style_prefer_compound_assignment = true:suggestion
+dotnet_style_prefer_simplified_interpolation = true:suggestion
+dotnet_style_prefer_collection_expression = when_types_loosely_match:suggestion
+dotnet_style_namespace_match_folder = true:suggestion
+dotnet_style_predefined_type_for_locals_parameters_members = true:silent
+dotnet_style_predefined_type_for_member_access = true:silent
+dotnet_style_readonly_field = true:suggestion
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:silent
+[*.cs]
+csharp_space_around_binary_operators = before_and_after
+csharp_indent_labels = one_less_than_current
+csharp_using_directive_placement = outside_namespace:silent
+csharp_style_conditional_delegate_call = true:suggestion
+csharp_style_var_for_built_in_types = false:silent
+csharp_style_var_when_type_is_apparent = false:silent
+csharp_style_var_elsewhere = false:silent
+csharp_style_allow_embedded_statements_on_same_line_experimental = true:silent
+csharp_style_allow_blank_lines_between_consecutive_braces_experimental = true:silent
+csharp_style_allow_blank_line_after_colon_in_constructor_initializer_experimental = true:silent
+csharp_style_allow_blank_line_after_token_in_conditional_expression_experimental = true:silent
+csharp_style_allow_blank_line_after_token_in_arrow_expression_clause_experimental = true:silent
+csharp_style_expression_bodied_methods = false:silent
+csharp_style_expression_bodied_constructors = false:silent
+csharp_style_expression_bodied_operators = false:silent
+csharp_style_expression_bodied_properties = true:silent
+csharp_style_expression_bodied_indexers = true:silent
+csharp_style_expression_bodied_accessors = true:silent
+csharp_style_expression_bodied_lambdas = true:silent
+csharp_style_expression_bodied_local_functions = false:silent
+csharp_style_throw_expression = true:suggestion
+csharp_style_prefer_null_check_over_type_check = true:suggestion
+csharp_prefer_simple_default_expression = true:suggestion
+csharp_style_prefer_local_over_anonymous_function = true:suggestion
+csharp_style_prefer_index_operator = true:suggestion
+csharp_style_prefer_range_operator = true:suggestion
+csharp_style_implicit_object_creation_when_type_is_apparent = true:suggestion
+csharp_style_prefer_tuple_swap = true:suggestion
+csharp_style_prefer_unbound_generic_type_in_nameof = true:suggestion
+csharp_style_prefer_utf8_string_literals = true:suggestion
+csharp_style_inlined_variable_declaration = true:suggestion
+csharp_style_deconstructed_variable_declaration = true:suggestion
+csharp_style_unused_value_assignment_preference = discard_variable:suggestion
+csharp_style_unused_value_expression_statement_preference = discard_variable:silent
+csharp_prefer_simple_using_statement = true:suggestion
+csharp_prefer_braces = true:silent
+csharp_style_namespace_declarations = block_scoped:silent
+csharp_style_prefer_method_group_conversion = true:silent
+csharp_style_prefer_top_level_statements = true:silent
+csharp_style_prefer_primary_constructors = true:suggestion
+csharp_prefer_system_threading_lock = true:suggestion
+csharp_style_prefer_switch_expression = true:suggestion
+csharp_style_prefer_pattern_matching = true:silent
+csharp_style_pattern_matching_over_is_with_cast_check = true:suggestion
+csharp_style_pattern_matching_over_as_with_null_check = true:suggestion
+csharp_style_prefer_not_pattern = true:suggestion
+csharp_style_prefer_extended_property_pattern = true:suggestion
+csharp_prefer_static_local_function = true:suggestion
+csharp_prefer_static_anonymous_function = true:suggestion
+csharp_style_prefer_readonly_struct = true:suggestion
+csharp_style_prefer_readonly_struct_member = true:suggestion

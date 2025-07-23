@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877DD1CF-33EC-4D66-B11A-77956FE77210}|PacketTool\\PacketTool.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\packettool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877DD1CF-33EC-4D66-B11A-77956FE77210}|PacketTool\\PacketTool.csproj|solutionrelative:packettool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\packets.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\packets.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\network\\generated\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\network\\generated\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\network\\generated\\packetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\network\\generated\\packetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\network\\generated\\packetid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\network\\generated\\packetid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D5274F-AC00-46C7-1F8D-E88E81087A52}|Solution Items{C8D5274F-AC00-46C7-1F8D-E88E81087A52}|C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{C8D5274F-AC00-46C7-1F8D-E88E81087A52}|Solution Items{C8D5274F-AC00-46C7-1F8D-E88E81087A52}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\core\\network\\ipacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FACF81-2296-48C5-8C03-5DB83B731A40}|Core\\Core.csproj|solutionrelative:core\\network\\ipacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\jwt\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\jwt\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\chat\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\chat\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\login\\authapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\login\\authapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\client\\login\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|solutionrelative:client\\login\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\network\\clientidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\network\\clientidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\authentication\\iusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0FF865-12F0-4C2E-A82B-BA20745C2829}|Authentication\\Authentication.csproj|solutionrelative:authentication\\iusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\client\\chat\\ui_chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|solutionrelative:client\\chat\\ui_chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\network\\tcpclientsessionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\network\\tcpclientsessionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\client\\network\\tcpserversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|solutionrelative:client\\network\\tcpserversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\client\\network\\connectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96F6C23-9A1A-4A9F-B1B1-1FA2D65664AF}|Client\\Client.csproj|solutionrelative:client\\network\\connectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\network\\tcpclientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\network\\tcpclientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|c:\\users\\user\\documents\\github\\unity-bootcamp-13th\\c#\\game\\server\\network\\packetrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D91DE18-0ED4-4B8C-A484-446BA8C36C94}|Server\\Server.csproj|solutionrelative:server\\network\\packetrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:12:44.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:20:14.441Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:19:36.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\PacketTool\\Program.cs",
+              "RelativeDocumentMoniker": "PacketTool\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\PacketTool\\Program.cs",
+              "RelativeToolTip": "PacketTool\\Program.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAswO8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:15:08.2Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Packets.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\Packets.cs",
+              "RelativeDocumentMoniker": "Core\\Network\\Generated\\Packets.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\Packets.cs",
+              "RelativeToolTip": "Core\\Network\\Generated\\Packets.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:10:56.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packets.def",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\packets.def",
+              "RelativeDocumentMoniker": "Core\\packets.def",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\packets.def",
+              "RelativeToolTip": "Core\\packets.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-07-23T06:49:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketId.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\PacketId.cs",
+              "RelativeDocumentMoniker": "Core\\Network\\Generated\\PacketId.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\PacketId.cs",
+              "RelativeToolTip": "Core\\Network\\Generated\\PacketId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:10:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T05:45:24.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacketFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\PacketFactory.cs",
+              "RelativeDocumentMoniker": "Core\\Network\\Generated\\PacketFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\Generated\\PacketFactory.cs",
+              "RelativeToolTip": "Core\\Network\\Generated\\PacketFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:58:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPacket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\IPacket.cs",
+              "RelativeDocumentMoniker": "Core\\Network\\IPacket.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Core\\Network\\IPacket.cs",
+              "RelativeToolTip": "Core\\Network\\IPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:50:46.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T07:47:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Authentication\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\UserInfo.cs",
+              "RelativeToolTip": "Authentication\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:29:31.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Jwt\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Authentication\\Jwt\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Jwt\\JwtUtils.cs",
+              "RelativeToolTip": "Authentication\\Jwt\\JwtUtils.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:42:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T03:26:02.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Chat\\ChatService.cs",
+              "RelativeDocumentMoniker": "Server\\Chat\\ChatService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Chat\\ChatService.cs",
+              "RelativeToolTip": "Server\\Chat\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:50:28.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Authentication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Authentication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T07:01:45.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UI_Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Login\\UI_Login.cs",
+              "RelativeDocumentMoniker": "Client\\Login\\UI_Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Login\\UI_Login.cs",
+              "RelativeToolTip": "Client\\Login\\UI_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:26:05.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Login\\AuthApiSettings.cs",
+              "RelativeDocumentMoniker": "Server\\Login\\AuthApiSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Login\\AuthApiSettings.cs",
+              "RelativeToolTip": "Server\\Login\\AuthApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:17:14.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientIdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\ClientIdGenerator.cs",
+              "RelativeDocumentMoniker": "Server\\Network\\ClientIdGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\ClientIdGenerator.cs",
+              "RelativeToolTip": "Server\\Network\\ClientIdGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:47:59.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T06:39:28.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\IUserSessionRepository.cs",
+              "RelativeDocumentMoniker": "Authentication\\IUserSessionRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Authentication\\IUserSessionRepository.cs",
+              "RelativeToolTip": "Authentication\\IUserSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:51:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TcpClientSessionHub.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\TcpClientSessionHub.cs",
+              "RelativeDocumentMoniker": "Server\\Network\\TcpClientSessionHub.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\TcpClientSessionHub.cs",
+              "RelativeToolTip": "Server\\Network\\TcpClientSessionHub.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UI_Chat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Chat\\UI_Chat.cs",
+              "RelativeDocumentMoniker": "Client\\Chat\\UI_Chat.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Chat\\UI_Chat.cs",
+              "RelativeToolTip": "Client\\Chat\\UI_Chat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:47:20.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TcpServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Network\\TcpServerSession.cs",
+              "RelativeDocumentMoniker": "Client\\Network\\TcpServerSession.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Network\\TcpServerSession.cs",
+              "RelativeToolTip": "Client\\Network\\TcpServerSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:16:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConnectionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Network\\ConnectionSettings.cs",
+              "RelativeDocumentMoniker": "Client\\Network\\ConnectionSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Client\\Network\\ConnectionSettings.cs",
+              "RelativeToolTip": "Client\\Network\\ConnectionSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:34:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TcpClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\TcpClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\Network\\TcpClientSession.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\TcpClientSession.cs",
+              "RelativeToolTip": "Server\\Network\\TcpClientSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:20:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PacketRouter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\PacketRouter.cs",
+              "RelativeDocumentMoniker": "Server\\Network\\PacketRouter.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity-BootCamp-13th\\C#\\Game\\Server\\Network\\PacketRouter.cs",
+              "RelativeToolTip": "Server\\Network\\PacketRouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:17:34.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
